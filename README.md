@@ -49,9 +49,9 @@
 git clone https://github.com/Code-Pearl/binance-data-downloader.git
 cd binance-data-downloader
 
-**Here's your clean, ready-to-copy Markdown for `README.md`:**
 
-```markdown
+
+
 # 🔥 Binance Historical Data Downloader
 
 <img src="https://img.shields.io/badge/Author-Code--Pearl-blue?style=for-the-badge" alt="Code-Pearl">
@@ -239,8 +239,3 @@ Building tools for algorithmic traders.
 
 Made with ❤️ by Code-Pearl
 ```
-
----
-
-**Just copy everything above** and paste it into your `README.md` file. It's clean, well-formatted, and GitHub-ready.
-
